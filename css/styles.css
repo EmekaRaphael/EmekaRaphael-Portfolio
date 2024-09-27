@@ -3366,7 +3366,7 @@ img.u-pull-left {
  * ------------------------------------------------------------------- */
 
 .s-about {
-    /* padding-top    : var(--vspace-4); */
+    padding-top    : var(--vspace-4);
     padding-bottom : var(--vspace-3);
 }
 
@@ -3382,7 +3382,6 @@ img.u-pull-left {
 .about-info__pic {
     object-fit     : cover;
     margin         : 0;
-    padding        : 10%;
     vertical-align : bottom;
 }
 
